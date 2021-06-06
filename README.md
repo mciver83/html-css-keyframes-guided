@@ -157,7 +157,7 @@ In this step we will create a "cursor" by giving a `border-right` to our `h1`.
 
 </details>
 
-### Step 5
+### Step 6
 
 In this step we will make our cursor blink! Time to animate things!
 
@@ -233,7 +233,7 @@ We can also use shorthand and apply all of those styled to the `animation` prope
 
 </details>
 
-### Step 6
+### Step 7
 
 In this step we are going to animate the text so it looks like it is being typed. Let's first create the keyframe and think about what we want to have happen here. So at first we don't want the text to appear, and then we want it to look like it is appearing letter by letter. How could we make that happen? Think through it for a minute. Even if you don't have a clue, it's still good to think through it.
 
