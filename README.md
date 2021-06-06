@@ -40,7 +40,7 @@ In this step, let's also go ahead and change the title for our website. You can 
 
 The first Animation we are going to create is a typewriter effect. We want it to look like someone is typing a message across the screen like in the gif below.
 
-[enter gif here]
+![grab-landing-page](https://github.com/pushcode-dev/html-css-keyframes-guided/grab/blob/master/typwriter_animation.gif)
 
 ### Step 3
 
