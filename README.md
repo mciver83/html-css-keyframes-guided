@@ -36,7 +36,7 @@ In this step, let's also go ahead and change the title for our website. You can 
 
 </details>
 
-## Typewriter animation
+#### Typewriter animation
 
 The first Animation we are going to create is a typewriter effect. We want it to look like someone is typing a message across the screen like in the gif below.
 
