@@ -330,7 +330,7 @@ One last thing. Add `margin: 0 auto;` to your `h1` to always have the content ce
 
 </details>
 
-### Moving Ball Animation
+#### Moving Ball Animation
 
 Here's another fun animation that you can make. We won't go through all of the steps, just add the html and css to your files and you can see the animation. Then, read through the code until you understand how it is working.
 
