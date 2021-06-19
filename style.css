@@ -7,4 +7,5 @@
 .typewriter h1 {
   font-size: 24px;
   letter-spacing: 0.15em;
+  border-right: 2px solid #5dc03e;
 }
