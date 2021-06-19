@@ -8,4 +8,19 @@
   font-size: 24px;
   letter-spacing: 0.15em;
   border-right: 2px solid #5dc03e;
+  animation: blink-cursor;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+  animation-timing-function: steps(1, end);
+}
+
+@keyframes blink-cursor {
+  0%,
+  100% {
+    border-color: transparent;
+  }
+
+  50% {
+    border-color: #5dc03e;
+  }
 }
