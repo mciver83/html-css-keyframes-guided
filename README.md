@@ -44,7 +44,7 @@ The first Animation we are going to create is a typewriter effect. We want it to
 
 ### Step 3
 
-First, we will want to create a wrapper element that the message will be contained in. So, let's create a class called `.typewriter-wrapper`. We will give this class a display flex, and make it so the content (child elemenet) is centered on the row (hint: `justify-content` can be used to center elements in a display flex container).
+First, we will want to create a wrapper element that the message will be contained in. So, let's create a class called `.typewriter-wrapper`. We will give this class a display flex, and make it so the content (child element) is centered on the row (hint: `justify-content` can be used to center elements in a display flex container).
 
 <details>
 <summary>index.html</summary>
@@ -283,7 +283,7 @@ like this:
 animation: typing 3.5s steps(50, end) 2s, blink-cursor 0.75s step-end infinite;
 ```
 
-We can apply multiple animations by separating them with a comma. For the `typing` animation, we are saying we want to animation to take 3.5 seconds, have 50 steps in the timing-function, have a 2 second delat and since we didn't specify an interval, it will only happen 1 time. Remember, I don't want you to focus too much on the steps function. The number of steps should be double the number of characters in your text that you want "typed" out, including white spaces.
+We can apply multiple animations by separating them with a comma. For the `typing` animation, we are saying we want to animation to take 3.5 seconds, have 50 steps in the timing-function, have a 2 second delay and since we didn't specify an interval, it will only happen 1 time. Remember, I don't want you to focus too much on the steps function. 
 
 Now give it a try! You might notice that the text is visible at first, and then disappears and the animation happens. That is because of the animation-delay. You can add the following to the `h1` to fix the problem.
 
