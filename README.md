@@ -1,6 +1,6 @@
 ## Project Summary
 
-In this project, we will learn how to create a side drawer that appears when clicking on a menu button. Since this module only covers HTML & CSS, I will show you a way to create a drawer with only HTML & CSS. There are other ways of creating a drawer using JavaScript as well.
+In this project, we will use css `@keyframes` to create a couple of cool animations. I think you are really going to like this project!
 
 ## Steps
 
